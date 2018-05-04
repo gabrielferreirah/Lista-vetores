@@ -17,6 +17,12 @@ public class Exercicio01{
         numeros[10] = 11;
         numeros[11] = 12;
         numeros[12] = 13;
+        numeros[13] = 14;
+        numeros[14] = 15;
+        numeros[15] = 16;
+
+        double soma = numeros[0] + numeros[1] + numeros[2] + numeros[3] + numeros[4] + numeros[5] + numeros[6] + numeros[7] + numeros[8] + numeros[9] + numeros[10] + numeros[11] + numeros[12] + numeros[13] + numeros[14] + numeros[15];
         
+        System.out.println(soma);
     }
 }
